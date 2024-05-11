@@ -1,5 +1,5 @@
-Compose for Wear OS Code Lab Repository
-=======================================
-Learn how you can apply your knowledge of Compose to Wear OS.
+Compose for Wear OS Code Lab
+=============================
+Learned how to reapply knowledge of Compose to Wear OS and the basics of Wear OS like chips, cards, scaffold, and scalinglazylist!
 
-Code lab instructions can be found [here](https://developer.android.com/codelabs/compose-for-wear-os).
+![Screenshot_20240511_141942](https://github.com/NickSidiropoulos/WearOsCodeLab/assets/12250619/4a13ccde-9ff3-407c-9cc9-edf3d698b441)
